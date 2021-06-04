@@ -1,0 +1,11 @@
+{
+    "ID": "02",
+    "did": "02",
+    "subname": "b",
+    "head": "object 02",
+    "name": "ТЦ Панорама",
+    "micropone": true,
+    "body": {
+        "message": ""
+    }
+}

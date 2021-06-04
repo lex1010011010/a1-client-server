@@ -1,0 +1,11 @@
+{
+    "ID": "01",
+    "did": "01",
+    "subname": "b",
+    "head": "object 01",
+    "name": "ТЯК Москва",
+    "microphone": true,
+    "body": {
+        "message": ""
+    }
+}
